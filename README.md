@@ -40,13 +40,13 @@ When you have the connection string, use that connection in the appropirate plac
 A file with the **.http** extension has examples of how to send various types of requests.
 
 To get it to work on your local system, you will have to install
-a VSCode extension called **REST Client**. Install if it to your system if it isn't already there.
+a VSCode extension called **REST Client**. Install it to your system if it isn't already there.
 
 ## Challenge
 
-1. You challenge will be to get the code to work. All that you have to do is enter the mongo connection url in its appropriate places.
+1. Your challenge will be to get the code to work. All that you have to do is enter the mongo connection url in its appropriate places.
 
-2. Create GET, POST, PATCH, DELETE handler for managing student data. Assume each student will have the follwing properties.
+2. Create GET, POST, PATCH, DELETE handler for managing student data. Assume each student will have the following properties.
     - Name
     - Roll no
     - Registration no
