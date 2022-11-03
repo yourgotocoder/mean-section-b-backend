@@ -15,7 +15,7 @@ code .
 ```
 npm install
 ```
-- Starting the server, paste the follwing code into the terminal
+- Starting the server, paste the following code into the terminal
 ```
 npm run dev
 ```
